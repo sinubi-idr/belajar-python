@@ -1,3 +1,3 @@
 # belajar-python
 
-* 01 - Halo Dunia dan Fungsi Print.ipynb
+* 01 - Halo Dunia, Komentar dan Fungsi Print.ipynb
