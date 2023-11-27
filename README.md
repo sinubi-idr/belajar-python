@@ -4,3 +4,5 @@
 
 * 01 - Halo Dunia, Komentar dan Fungsi Print.ipynb
 * 02 - Variabel
+* 03 - Tipe Data
+* 04 - Operator
